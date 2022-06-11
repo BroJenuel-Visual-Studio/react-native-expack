@@ -1,5 +1,9 @@
 # Change Log
 
+
+## [1.1.0]
+- separate repo
+
 ## [1.1.0]
 ### September 8, 2021
   - Removed Bracket Pair Colorizer Because VS Code has a build in pair colorizer. To enable colorizer in VS Code. Go to Settings and search for `bracket pair colorization` and enable it.
